@@ -40,16 +40,14 @@ Publications
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Service and leadership
+TA
 ======
-* Currently signed in to 43 different slack teams
+ EOSC 533- Advanced Groundwater Hydrology (2021,2022)
+ EOSC 118- Earth's Treasures: Gold and Gems (2022)
+  
+Reviewer
+======
+* Canadian Journal of Undergraduate Reseach
+* Multidisciplinary Undergraduate Research Conference
