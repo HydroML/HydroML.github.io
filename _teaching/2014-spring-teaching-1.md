@@ -1,6 +1,6 @@
 ---
 title: "EOSC 533: Advanced Groundwater Hydrology"
-collection: teaching
+collection: TA
 type: "Graduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of British Columbia, Department of Earth, Ocean and Atmospheric Sciences"
