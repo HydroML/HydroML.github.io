@@ -4,7 +4,7 @@ collection: teaching
 type: "TA"
 permalink: /teaching/2015-spring-teaching-1
 venue: "University of British Columbia, Department of Earth, Ocean and Atmospheric Sciences"
-date: #Summer 2022
+date: 2022-02-19
 location: "Online"
 ---
 
