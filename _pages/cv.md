@@ -16,15 +16,17 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019: Research Assistant
+  * University of British Columbia
+  * Supervisor: Dr. Valentina Radic
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019: Data analyst/ Research Assistant
+  * BC Injury Research and Prevention Unit
+  * Supervisor: Dr. Ian Pike
+
+* 2016-2019: Data analytics assistant
+  * UBC Development and Alumni Engagement
+  * Supervisor: Dr. Claudia Rangel
   
 Skills
 ======
@@ -34,9 +36,7 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Ultra-marginal Feature Importance
   
 Talks
 ======
