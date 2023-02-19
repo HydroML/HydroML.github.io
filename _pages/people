@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "People"
+permalink: /people/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Undergraduates
 ======
 * B.S. in Mathematical Sciences, University of British Columbia, 2020
 * Ph.D in Geological Sciences and Applied Mathematics, University of British Columbia, 2026 (expected)
 
-Work experience
+Collaborators
 ======
 * 2019: Research Assistant
   * University of British Columbia
@@ -28,28 +28,10 @@ Work experience
   * UBC Development and Alumni Engagement
   * Supervisor: Dr. Claudia Rangel
   
-Skills
+Mentors
 ======
 * R
 * Matlab
 * LaTeX
 
-Publications
-======
-* Ultra-marginal Feature Importance
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
