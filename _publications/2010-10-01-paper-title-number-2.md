@@ -1,15 +1,11 @@
 ---
-title: "Paper Title Number 2"
+title: "Assessment of Future Risks of Seasonal Municipal Water Shortages Across North America"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: ''
+date: 2021-09-15
+venue: 'Frontiers in Earth Science'
+paperurl: 'https://www.frontiersin.org/articles/10.3389/feart.2021.730631/'
+citation: ''
 ---
-This paper is about the number 2. The number 3 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+While anthropogenic climate change poses a risk to freshwater resources across the globe through increases in evapotranspiration and temperature, it is essential to quantify the risks at local scales in response to projected trends in both freshwater supply and demand. In this study, we use empirical modeling to estimate the risks of municipal water shortages across North America by assessing the effects of climate change on streamflow and urban water demand. In addition, we aim to quantify uncertainties in both supply and demand predictions. Using streamflow data from both the US and Canada, we first cluster 4,290 streamflow gauges based on hydrograph similarity and geographical location. We develop a set of multiple linear regression (MLR) models, as a simplified analog to a distributed hydrological model, with minimum input data requirements. These MLR models are calibrated to simulate streamflow for the 1993–2012 period using the ERA5 climate reanalysis data. The models are then used to predict streamflow for the 2080–2099 period in response to two climate scenarios (RCP4.5 and RCP8.5) from five global climate models. Another set of MLR models are constructed to project seasonal changes in municipal water consumption for the clustered domains. The models are calibrated against collected data on urban water use from 47 cities across the study region. For both streamflow and water use, we quantified uncertainties in our predictions using stochastic weather generators and Monte Carlo methods. Our study shows the strong predictive power of the MLR models for simulating both streamflow regimes (Kling-Gupta efficiency >0.5) and urban water use (correlation coefficient ≈0.7) in most regions. Under the RCP4.5 (RCP8.5) emissions scenario, the West Coast, the Southwest, and the Deep South (South-Central US and the Deep South) have the highest risk of municipal water shortages. Across the whole domain, the risk is the highest in the summer season when demand is high. We find that the uncertainty in projected changes to the water demand is substantially lower than the uncertainty in the projected changes to the supply. Regions with the highest risk of water shortages should begin to investigate mitigation and adaptation strategies.
