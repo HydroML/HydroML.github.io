@@ -12,5 +12,5 @@ I am a second year PhD student at the University of British Columbia under the s
 
 Want to collaborate?
 ======
-I keep a list of papers that I find interesting and would like to expand upon in future work in the 'Interesting Papers' tab. If you also find any of these papers interesting and would like to collaborate, feel free to send me an email anytime.
+I keep a list of papers that I find interesting and would like to expand upon in future work in the [Favorite Papers tab](https://hydroml.github.io/FavoritePapers/). If you also find any of these papers interesting and would like to collaborate, feel free to send me an email anytime.
 
