@@ -3,9 +3,9 @@ title: "Ultra-marginal Feature Importance: Learning from Data with Causal Guaran
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+date: 2023-04-22
 venue: 'AISTATS'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+paperurl: 'https://arxiv.org/abs/2204.09938'
+citation: ''
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Scientists frequently prioritize learning from data rather than training the best possible model; however, research in machine learning often prioritizes the latter. Marginal contribution feature importance (MCI) was developed to break this trend by providing a useful framework for quantifying the relationships in data. In this work, we aim to improve upon the theoretical properties, performance, and runtime of MCI by introducing ultra-marginal feature importance (UMFI), which uses dependence removal techniques from the AI fairness literature as its foundation. We first propose axioms for feature importance methods that seek to explain the causal and associative relationships in data, and we prove that UMFI satisfies these axioms under basic assumptions. We then show on real and simulated data that UMFI performs better than MCI, especially in the presence of correlated interactions and unrelated features, while partially learning the structure of the causal graph and reducing the exponential runtime of MCI to super-linear.
