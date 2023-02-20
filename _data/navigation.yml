@@ -10,10 +10,10 @@ main:
     url: /people/
         
   - title: "Favorite Papers"
-    url: /year-archive/
+    url: /FavoritePapers/
     
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+  #  url: /markdown/
