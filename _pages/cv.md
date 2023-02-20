@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mathematical Sciences, University of British Columbia, 2020
 * Ph.D in Geological Sciences and Applied Mathematics, University of British Columbia, 2026 (expected)
+* B.S. in Mathematical Sciences, University of British Columbia, 2020
 
 Work experience
 ======
@@ -33,19 +33,12 @@ Skills
 * R
 * Matlab
 * LaTeX
-
-Publications
-======
-* Ultra-marginal Feature Importance
-  
-Talks
-======
   
   
 TA
 ======
- EOSC 533- Advanced Groundwater Hydrology (2021,2022)
- EOSC 118- Earth's Treasures: Gold and Gems (2022)
+* EOSC 533- Advanced Groundwater Hydrology (2021,2022)
+* EOSC 118- Earth's Treasures: Gold and Gems (2022)
   
 Reviewer
 ======
