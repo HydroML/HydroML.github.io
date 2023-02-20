@@ -1,0 +1,11 @@
+---
+title: "Snow persistence explains stream high flow and low flow signatures with differing relationships by aridity and climatic seasonality"
+collection: publications
+permalink: /publication/SnowPersistence2023
+excerpt: ''
+date: 2023-04-22
+venue: 'Hydrology and Earth System Sciences Discussions'
+paperurl: 'https://hess.copernicus.org/preprints/hess-2022-106/'
+citation: 'Le, E., Ameli, A., Janssen, J., & Hammond, J. (2022). Snow persistence explains stream high flow and low flow signatures with differing relationships by aridity and climatic seasonality. Hydrology and Earth System Sciences Discussions, 1-22.'
+---
+Snow persistence is a globally available metric of snow cover duration that has, thus far, seen limited application to the field of hydrology. This study attempts to explore the controls that snow persistence exerts on streamflow at low and high flow conditions across a diverse spectrum of climatic aridity and seasonality in the United States and Canada. We statistically analyze how snow persistence, aridity, and seasonality conditions interact to control and explain streamflow shape and flashiness at low and high flows. For low flow condition, regardless of climatic aridity and seasonality, a larger snow persistence increases baseflow, reduces low flow variability, and increases the magnitude of extreme low flow relative to average flow. Our results further show that snow persistence becomes a stronger factor in controlling baseflow as well as the magnitude of extreme low flow relative to average flow, in regions with a relatively high aridity and/or with summer-dominant precipitation regimes (or in-phase seasonality). On the other hand, in catchments that are moderately wet to very arid with winter-dominant precipitation regimes (or out-of-phase seasonality), a longer snow persistence could typically lead to a more variability at high flow and a larger magnitude of extreme high flow relative to average flow. This study concludes by demonstrating the relevancy of snow persistence as a globally available streamflow behaviour descriptor and by demonstrating the impacts that climate change may have on snow persistence and ultimately on streamflow behaviour at low and high flows.
