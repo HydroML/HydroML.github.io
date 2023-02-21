@@ -20,7 +20,7 @@ Work experience
   * University of British Columbia
   * Supervisor: Dr. Valentina Radic
 
-* 2019: Data analyst/ Research Assistant
+* 2017-2018: Data analyst/ Research Assistant
   * BC Injury Research and Prevention Unit
   * Supervisor: Dr. Ian Pike
 
