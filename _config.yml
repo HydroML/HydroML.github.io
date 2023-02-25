@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Janssen Hydrology and Machine Learning Lab"
+title                    : "Janssen HydroML Lab"
 title_separator          : "-"
 name                     : &name "Joseph Janssen"
 description              : &description "PHD student at the University of British Columbia"
