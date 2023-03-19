@@ -1,9 +1,9 @@
 ---
 title: "Snow persistence explains stream high flow and low flow signatures with differing relationships by aridity and climatic seasonality"
 collection: publications
-permalink: /publication/SnowPersistence2023
+permalink: /publication/SnowPersistence2022
 excerpt: ''
-date: 2023-04-22
+date: 2022-04-22
 venue: 'Hydrology and Earth System Sciences Discussions'
 paperurl: 'https://hess.copernicus.org/preprints/hess-2022-106/'
 citation: 'Le, E., Ameli, A., Janssen, J., & Hammond, J. (2022). Snow persistence explains stream high flow and low flow signatures with differing relationships by aridity and climatic seasonality. Hydrology and Earth System Sciences Discussions, 1-22.'
