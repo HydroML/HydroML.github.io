@@ -37,10 +37,14 @@ Skills
   
 TA
 ======
-* EOSC 533- Advanced Groundwater Hydrology (2021,2022)
+* EOSC 533- Advanced Groundwater Hydrology (2021,2022,2023)
 * EOSC 118- Earth's Treasures: Gold and Gems (2022)
+* EOSC 116- Mesozoic Earth: Time of the Dinosaurs (2024)
   
 Reviewer
 ======
 * Canadian Journal of Undergraduate Reseach
 * Multidisciplinary Undergraduate Research Conference
+* International Conference on Machine Learning (ICML)
+* Water Resources Research (WRR)
+* Nature Scientific Data
