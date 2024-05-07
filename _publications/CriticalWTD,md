@@ -1,0 +1,11 @@
+---
+title: "A critical appraisal of water table depth estimation: Challenges and opportunities within machine learning"
+collection: publications
+permalink: /publication/CriticalWTD
+excerpt: ''
+date: 2024-05-02
+venue: 'eartharxiv'
+paperurl: 'https://eartharxiv.org/repository/view/7067/'
+citation: 'Janssen, J., Tootchi, A., & Ameli, A. A. (2024). A critical appraisal of water table depth estimation: Challenges and opportunities within machine learning.'
+---
+Fine-resolution spatial patterns of water table depth (WTD) can inform the dynamics of groundwater-dependent systems, including ecological, hydrological, and anthropogenic systems. Generally, a large-scale (e.g., continental or global) spatial map of static WTD can be simulated using either physically-based (PB) or machine learning-based (ML) models. We construct three fine-resolution (500 m) ML simulations of WTD, using the XGBoost algorithm and more than 20 million real and proxy observations of WTD, across the United States and Canada. The three ML models were constrained using known physical relations between WTD's drivers and WTD and were trained by sequentially adding real and proxy observations of WTD. We interpret the black box of our physically constrained ML models and compare it against available literature in groundwater hydrology. Through an extensive (pixel-by-pixel) evaluation, we demonstrate that our models can more accurately predict unseen real and proxy observations of WTD across most of North America's ecoregions compared to three available PB simulations of WTD. However, we still argue that large-scale WTD estimation is far from being a solved problem. We reason that due to biased and untrustworthy observational data, the misspecification of physically-based equations, and the over-flexibility of machine learning models, our community's confidence in ML or PB simulations of WTD is far too high and verifiably accurate simulations of WTD do not yet exist in the literature, particularly in arid high-elevation landscapes. Ultimately, we thoroughly discuss future directions that may help hydrogeologists decide how to proceed with WTD estimations, with a particular focus on the application of machine learning.
