@@ -21,6 +21,7 @@ Hydrology
 * Franzen, S. E., Farahani, M. A., & Goodwell, A. E. (2020). Information Flows: Characterizing Precipitation‐Streamflow Dependencies in the Colorado Headwaters With an Information Theory Approach. Water Resources Research, 56(10), e2019WR026133.
 * Tennant, C., Larsen, L., Bellugi, D., Moges, E., Zhang, L., & Ma, H. (2020). The utility of information flow in formulating discharge forecast models: A case study from an arid snow‐dominated catchment. Water Resources Research, 56(8), e2019WR024908.
 * Gong, W., Gupta, H. V., Yang, D., Sricharan, K., & Hero III, A. O. (2013). Estimating epistemic and aleatory uncertainties during hydrologic modeling: An information theoretic approach. Water resources research, 49(4), 2253-2273.
+* Allgeier, J., González-Nicolás, A., Erdal, D., Nowak, W., & Cirpka, O. A. (2020). A stochastic framework to optimize monitoring strategies for delineating groundwater divides. Frontiers in Earth Science, 8, 554845.
 
 Information Theory
 ======
@@ -34,6 +35,7 @@ Causal Inference and Graphical Models
 * Marx, A., Gretton, A., & Mooij, J. M. (2021, December). A weaker faithfulness assumption based on triple interactions. In Uncertainty in Artificial Intelligence (pp. 451-460). PMLR.
 * Sadeghi, K. (2017). Faithfulness of probability distributions and graphs. Journal of Machine Learning Research, 18(148), 1-29.
 * van Breugel, B., Kyono, T., Berrevoets, J., & van der Schaar, M. (2021). Decaf: Generating fair synthetic data using causally-aware generative networks. Advances in Neural Information Processing Systems, 34, 22221-22233.
+* Chicharro, D., & Ledberg, A. (2012). When two become one: the limits of causality analysis of brain dynamics. PloS one, 7(3), e32466.
 
 Feature Selection
 ======
