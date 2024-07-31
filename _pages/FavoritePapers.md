@@ -14,7 +14,6 @@ Feature Importance
 * Catav, A., Fu, B., Zoabi, Y., Meilik, A. L. W., Shomron, N., Ernst, J., ... & Gilad-Bachrach, R. (2021, July). Marginal contribution feature importance-an axiomatic approach for explaining data. In International Conference on Machine Learning (pp. 1324-1335). PMLR.
 * Harel, N., Gilad-Bachrach, R., & Obolski, U. (2022). Inherent Inconsistencies of Feature Importance. arXiv preprint arXiv:2206.08204.
 * Grömping, U. (2009). Variable importance assessment in regression: linear regression versus random forest. The American Statistician, 63(4), 308-319.
-* Maier, H. R., Taghikhah, F. R., Nabavi, E., Razavi, S., Gupta, H., Wu, W., ... & Huang, J. (2024). How much X is in XAI: Responsible use of “Explainable” Artificial Intelligence in Hydrology and Water Resources.
 
 Hydrology
 ======
