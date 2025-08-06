@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year PhD candidate at the University of British Columbia under the supervision of [Ali Ameli](https://www.eoas.ubc.ca/people/aliameli) and under the co-supervision of [Elina Robeva](https://personal.math.ubc.ca/~erobeva/). My current research interests span many areas of Earth and mathematical sciences including catchment hydrology, causal discovery, information theory, feature importance/selection, machine learning, game theory, and AI fairness.
+I am a fourth year PhD candidate at the University of British Columbia under the supervision of [Ali Ameli](https://www.eoas.ubc.ca/people/aliameli) and under the co-supervision of [Elina Robeva](https://personal.math.ubc.ca/~erobeva/). Begining in September 2025, I will be leading my own research at Stanford University, funded by the Thompson Fellowship in Geophysics. My current research interests span many areas of Earth and mathematical sciences including catchment hydrology, causal discovery, information theory, feature importance/selection, machine learning, game theory, and AI fairness.
 
 Want to collaborate?
 ======
