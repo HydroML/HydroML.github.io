@@ -47,7 +47,7 @@ TA
 
 Awards and Research Funding
 ======
-* Thompson Fellowship in Geophysics ($77,000 per year + $15,000 research expenses) (2025)
+* Thompson Fellowship in Geophysics (\$77,000 per year + \$15,000 research expenses) (2025)
 * President's Academic Excellence Initiative PhD Award (2021-2024)
 * NSERC Postgraduate Scholarships – Doctoral (PGS-D) (2021-2024)
 * Biology Undergraduate Diversity in Research Microexerience Grant (2022)
