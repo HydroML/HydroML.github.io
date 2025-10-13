@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Joseph Janssen"
   avatar           : "profilepic.jpg"
-  bio              : "PHD student at University of British Columbia"
-  location         : "Vancouver, Canada"
+  bio              : "Thompson Postdoctoral Fellow in Geophysics at Stanford University"
+  location         : "Palo Alto, California"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.ca/citations?user=u10zEQYAAAAJ&hl=en&oi=sra"
-  email            : "joejanssen@eoas.ubc.ca"
+  email            : "janssenj@stanford.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
