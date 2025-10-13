@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Geological Sciences and Applied Mathematics, University of British Columbia, Sept 2025
+  * Thesis: "Diagnosing spatiotemporal catchment hydrologic behavior via causal inference, information theory, and machine learning"
 * B.S. in Mathematical Sciences, with distinction, University of British Columbia, May 2020
 
 Work experience
