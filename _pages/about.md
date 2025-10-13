@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year PhD candidate at the University of British Columbia under the supervision of [Ali Ameli](https://www.eoas.ubc.ca/people/aliameli) and under the co-supervision of [Elina Robeva](https://personal.math.ubc.ca/~erobeva/). Begining in September 2025, I will be leading my own research at Stanford University, funded by the Thompson Fellowship in Geophysics. My current research interests span many areas of Earth and mathematical sciences including catchment hydrology, causal discovery, information theory, feature importance/selection, machine learning, game theory, and AI fairness.
+As of September 2025, I have started leading my own research at Stanford University as the Thompson Postdoctoral Fellow in Geophysics. I work with [Rosemary Knight](https://enviro.stanford.edu/) and [Ching-Yao Lai](https://icyphysics.stanford.edu/). I recently defended and completed my PhD in Geological Sciences and Applied Mathematics at the University of British Columbia under the supervision of [Ali Ameli](https://www.eoas.ubc.ca/people/aliameli) and under the co-supervision of [Elina Robeva](https://personal.math.ubc.ca/~erobeva/). My current research interests span many areas of Earth and mathematical sciences including catchment hydrology, causal discovery, stochastic differential equations, information theory, feature importance/selection, machine learning, game theory, and AI fairness.
 
 Want to collaborate?
 ======
