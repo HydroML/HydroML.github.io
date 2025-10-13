@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Geological Sciences and Applied Mathematics, University of British Columbia, Sept 2025
-* B.S. in Mathematical Sciences, with distinction, University of British Columbia, 2020
+* B.S. in Mathematical Sciences, with distinction, University of British Columbia, May 2020
 
 Work experience
 ======
@@ -38,6 +38,8 @@ Skills
 * Matlab
 * LaTeX
 * Python
+* Tableau
+* Arc/QGIS
   
 TA
 ======
@@ -53,6 +55,7 @@ Awards and Research Funding
 * Biology Undergraduate Diversity in Research Microexerience Grant (2022)
 * REX Award for Research in Physical Sciences, Mathematics and Computer Science (2021)
 * SURE: Science Undergraduate Research Experience (2019)
+* Best Mathematician, Coachella Valley Math Field Day (2009, 2011)
   
 Reviewer
 ======
