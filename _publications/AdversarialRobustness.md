@@ -1,0 +1,11 @@
+---
+title: "On the Adversarial Robustness of Hydrological Models"
+collection: publications
+permalink: /publication/AdversarialRobustness
+excerpt: ''
+date: 2026-02-26
+venue: 'arxiv'
+paperurl: 'https://arxiv.org/abs/2602.05237'
+citation: 'Yang, Y., Janssen, J., Gupta, H., & Chui, T. F. M. (2026). On the Adversarial Robustness of Hydrological Models. arXiv preprint arXiv:2602.05237.'
+---
+The evaluation of hydrological models is essential for both model selection and reliability assessment. However, simply comparing predictions to observations is insufficient for understanding the global landscape of model behavior. This is especially true for many deep learning models, whose structures are complex. Further, in risk-averse operational settings, water managers require models that are trustworthy and provably safe, as non-robustness can put our critical infrastructure at risk. Motivated by the need to select reliable models for operational deployment, we introduce and explore adversarial robustness analysis in hydrological modeling, evaluating whether small, targeted perturbations to meteorological forcings induce substantial changes in simulated discharge. We compare physical-conceptual and deep learning-based hydrological models across 1,347 German catchments under perturbations of varying magnitudes, using the fast gradient sign method (FGSM). We find that, as expected, the FGSM perturbations systematically reduce KGE and increase MSE. However, catastrophic failure is rare and, surprisingly, LSTMs generally demonstrate greater robustness than HBV models. Further, changes in both the predicted hydrographs and the internal model states often respond approximately linearly (at least locally) as perturbation size increases, providing a compact summary of how errors grow under such perturbations. Similar patterns are also observed for random perturbations, suggesting that small input changes usually introduce approximately proportional changes in model output. Overall, these findings support further consideration of LSTMs for operational deployment (due both to their predictive power and robustness), and motivate future work on both characterizing model responses to input changes and improving robustness through architectural modifications and training design.
