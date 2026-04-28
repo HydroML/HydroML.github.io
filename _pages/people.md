@@ -15,6 +15,8 @@ Undergraduates
 * Aishwarya More (2020-2022, Engineering Analyst @ Goldman Sachs)
 * Blanche Lan (2021-2022, Masters Student @ McGill University)
 * Jiaxin Wang (2021-2022, Sourcing Analyst @ BC Provincial Health)
+* Parsa Seyfourian (2022, Data Analyst @ Allen Institute)
+* Max Lee (2026, MUIR @ Stanford)
 
 Collaborators
 ======
