@@ -29,6 +29,8 @@ Hydrology
 * Li, X., Khandelwal, A., Jia, X., Cutler, K., Ghosh, R., Renganathan, A., ... & Kumar, V. (2022). Regionalization in a global hydrologic deep learning model: from physical descriptors to random vectors. Water Resources Research, 58(8), e2021WR031794.
 * Wagener, T., Dadson, S. J., Hannah, D. M., Coxon, G., Beven, K., Bloomfield, J. P., ... & Old, G. (2021). Knowledge gaps in our perceptual model of Great Britain's hydrology. Hydrological Processes, 35(7), e14288.
 * Liu, Y., Wagener, T., Beck, H. E., & Hartmann, A. (2020). What is the hydrologically effective area of a catchment?. Environmental Research Letters, 15(10), 104024.
+* Acuña Espinoza, E., Loritz, R., Álvarez Chaves, M., Bäuerle, N., & Ehret, U. (2024). To bucket or not to bucket? Analyzing the performance and interpretability of hybrid hydrological models with dynamic parameterization. Hydrology and Earth System Sciences, 28(12), 2705-2719.
+* Baste, S., Klotz, D., Acuña Espinoza, E., Bardossy, A., & Loritz, R. (2025). Unveiling the limits of deep learning models in hydrological extrapolation tasks. Hydrology and Earth System Sciences, 29(21), 5871-5891.
 
 Information Theory
 ======
@@ -49,9 +51,16 @@ Causal Inference and Graphical Models
 * Runge, J. (2021). Necessary and sufficient graphical conditions for optimal adjustment sets in causal graphical models with hidden variables. Advances in Neural Information Processing Systems, 34, 15762-15773.
 * Gerhardus, A., & Runge, J. (2020). High-recall causal discovery for autocorrelated time series with latent confounders. Advances in Neural Information Processing Systems, 33, 12615-12625.
 
+Stochastic Differential Equations
+======
+* Weinreb, C., Wolock, S., Tusi, B. K., Socolovsky, M., & Klein, A. M. (2018). Fundamental limits on dynamic inference from single-cell snapshots. Proceedings of the National Academy of Sciences, 115(10), E2467-E2476.
+* Coomer, M. A., Ham, L., & Stumpf, M. P. (2022). Noise distorts the epigenetic landscape and shapes cell-fate decisions. Cell Systems, 13(1), 83-102.
+* Zhang, S. Y. (2024, November). Joint trajectory and network inference via reference fitting. In Machine Learning in Computational Biology (pp. 72-85). PMLR.
+
 Statistical Learning
 ======
 * Yang, Y. (2006). Comparing learning methods for classification. Statistica Sinica, 635-657.
+* Basu, S., Kumbier, K., Brown, J. B., & Yu, B. (2018). Iterative random forests to discover predictive and stable high-order interactions. Proceedings of the National Academy of Sciences, 115(8), 1943-1948.
 * Zou, H. (2006). The adaptive lasso and its oracle properties. Journal of the American statistical association, 101(476), 1418-1429.
 * Leng, C., Lin, Y., & Wahba, G. (2006). A note on the lasso and related procedures in model selection. Statistica Sinica, 1273-1284.
 * Kirchner, J. W. (2022). Impulse response functions for nonlinear, nonstationary, and heterogeneous systems, estimated by deconvolution and demixing of noisy time series. Sensors, 22(9), 3291.
