@@ -50,7 +50,9 @@ TA
 
 Awards and Research Funding
 ======
-* Thompson Fellowship in Geophysics (\\$80,000 per year + \\$15,000 research expenses) (2025)
+* Sustainability and Data Science Conference, Best Postdoc Presentation (2nd place, 2026)
+* Mentoring Undergraduates in Interdisciplinary Research Funding (\\$8,500, 2026)
+* Thompson Fellowship in Geophysics (\\$80,000 per year + \\$15,000 research expenses, 2025)
 * President's Academic Excellence Initiative PhD Award (2021-2024)
 * NSERC Postgraduate Scholarships – Doctoral (PGS-D) (2021-2024)
 * Biology Undergraduate Diversity in Research Microexerience Grant (2022)
